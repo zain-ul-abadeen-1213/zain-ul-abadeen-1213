@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Muhammad+Zain+Ul+Abdeen👨🏻‍💻;" />
 </h1>
 
-<h2 align="center">Founder of The Techzeen 🎥 | AI Engineer | DevOps & Cyber Security Specialist | AI Automation Engineer |🔒⚙️ 
+<h2 align="center">Founder of The Zain Tech 🎥 | AI Engineer | DevOps & Cyber Security Specialist | AI Automation Engineer |🔒⚙️ 
 </h2>
 
 <div align="center"> 
@@ -18,7 +18,7 @@
 </div>
  <br />
 <div align="center"> 
-  <a href="mailto:farzeenaliarif786@gmail.com">
+  <a href="mailto:Zainpatel1213@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
     <a href="https://www.youtube.com/@TheTechzeen" target="_blank">
@@ -41,12 +41,12 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=farzeen-ali&show_icons=true&theme=midnight-purple" alt="Farzeen's GitHub Stats" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Zain-ali&show_icons=true&theme=midnight-purple" alt="Zain's GitHub Stats" height="200px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzeen-ali&layout=compact&theme=midnight-purple" alt="Farzeen's Top Languages" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-ali&layout=compact&theme=midnight-purple" alt="Zain's Top Languages" height="200px" />
       </td>
     </tr>
   </table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farzeen-ali&theme=react-dark&bg_color=000000&color=7e15f7&line=7e15f7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Zain-Ul-Abadeen&theme=react-dark&bg_color=000000&color=7e15f7&line=7e15f7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
