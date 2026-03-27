@@ -48,5 +48,4 @@
       </td>
     </tr>
   </table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Zain-Ul-Abadeen&theme=react-dark&bg_color=000000&color=7e15f7&line=7e15f7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
