@@ -10,7 +10,6 @@
 
 <div align="center">
 
-  [![YouTube](https://img.shields.io/badge/The%20Techzeen-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheTechzeen)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzeen-ali-533479204)
   [![Gmail](https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techzeen10@gmail.com)
 
