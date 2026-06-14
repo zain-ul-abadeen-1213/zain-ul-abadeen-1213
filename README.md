@@ -20,12 +20,12 @@
 
 <!-- 🌌 FUTURISTIC COMMAND CENTER HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7e15f7,100:0d1117&height=240&section=header&text=FARZEEN%20ALI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mr.%20Consistent%20•%20DevSecOps%20Architect%20•%20AI%20Full-Stack%20Engineer&descAlignY=58&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7e15f7,100:0d1117&height=240&section=header&text=Muhammad Zain Ul Abadeen%20ALI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mr.%20Consistent%20•%20DevSecOps%20Architect%20•%20AI%20Full-Stack%20Engineer&descAlignY=58&descAlign=50"/>
 </div>
 
 ---
 
-## 👨‍💻 DEPLOYMENT PROFILE: FARZEEN ALI
+## 👨‍💻 DEPLOYMENT PROFILE: Muhammad Zain Ul Abadeen
 
 > **"Most startups hire 4–5 specialists for what I do in one."**
 
@@ -133,9 +133,9 @@ If you are a founder, enterprise tech lead, or fast-growing startup looking for 
 * 🤖 **Automate:** Self-correcting AI workflows, bespoke multi-agent architecture, & RAG integrations.
 * 🛡️ **Audit:** Comprehensive offensive pentesting, vulnerability assessments, & red team simulations.
 
-**📺 YouTube Channel →** [The Techzeen on YouTube](https://www.youtube.com/@TheTechzeen)  
-**🌐 Official Website →** [thetechzeen.com](https://www.thetechzeen.com/)  
-**📧 Business Email →** [techzeen10@gmail.com](mailto:techzeen10@gmail.com)
+
+**🌐 Official Application →** [https://asset-manager--zainpatel1213.replit.app/)  
+**📧 Business Email →** [zainpatel1213@gmail.com](zainpatel1312@gmail.com)
 
 <br/>
 
