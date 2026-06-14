@@ -29,10 +29,11 @@
 
 > **"Most startups hire 4–5 specialists for what I do in one."**
 
-I am a **Solutions Architect, DevSecOps Engineer, and Tech Educator** specializing in elite, security-first digital infrastructure. As the Founder of **[The Techzeen](https://www.thetechzeen.com/)**, I run one of Pakistan's premier advanced tech engineering ecosystems on YouTube—backed by **1000+ days of zero-miss consistency**. 
+I am a **Solutions Architect, DevSecOps Engineer, and Tech Educator** specializing in elite, security-first digital infrastructure. As the Founder of **[ZainTech Automation Solution](
+https://asset-manager--zainpatel1213.replit.app)**, I run one of Pakistan's premier advanced tech engineering ecosystems on YouTube—backed by **1000+ days of zero-miss consistency**. 
 
 * **What I Do:** I design, secure, and automate hyper-scalable systems from edge devices to global cloud networks.
-* **Academic Leadership:** Serving as **Program Manager & Faculty @ Denning**, mentoring the next generation of engineers under the curriculum of the **University of London** & **University of Greenwich**.
+* **Academic Leadership:** Serving as **Program Manager & Faculty @ Denning**, mentoring the next generation of engineers under the curriculum of the **University of Karachi** & **University of Al Nafi International**.
 
 ---
 
@@ -98,7 +99,7 @@ I am a **Solutions Architect, DevSecOps Engineer, and Tech Educator** specializi
 <br/>
 
 <div align="center">
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=farzeen-ali&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7e15f7&ring=7e15f7&fire=ffffff&currStreakLabel=7e15f7"/>
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad Zain ul Abadeen&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7e15f7&ring=7e15f7&fire=ffffff&currStreakLabel=7e15f7"/>
 </div>
 
 <br/>
@@ -107,7 +108,7 @@ I am a **Solutions Architect, DevSecOps Engineer, and Tech Educator** specializi
 
 ### 📊 METRIC ACTIVITY STREAM
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=farzeen-ali&bg_color=0D0221&color=b347ff&line=7e15f7&point=ff6ef7&area=true&hide_border=true&area_color=2d0a5c"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad - Zain -ali&bg_color=0D0221&color=b347ff&line=7e15f7&point=ff6ef7&area=true&hide_border=true&area_color=2d0a5c"/>
 
 </div>
 
