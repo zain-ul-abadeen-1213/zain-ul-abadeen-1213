@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=38&center=true&vCenter=true&width=700&height=80&duration=2000&lines=Hey+There!+👋+I'm+Farzeen+Ali;Founder+%40+The+Techzeen+🎥;DevSecOps+%2B+Cyber+Security+🔒;Full-Stack+%2B+Mobile+Architect+💻;AI+Automation+Engineer+🤖" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=38&center=true&vCenter=true&width=700&height=80&duration=2000&lines=Hey+There!+👋+I'm+Zain+Ul +Abadeen;Founder+%40+The+Techzeen+🎥;DevSecOps+%2B+Cyber+Security+🔒;Full-Stack+%2B+Mobile+Architect+💻;AI+Automation+Engineer+🤖" />
 </div>
 
 <h3 align="center">
-  ⚡ FOUNDER & CEO @ THE TECHZEEN &nbsp;•&nbsp; 1000+ DAYS OF CONSISTENCY &nbsp;•&nbsp; ELITE ARCHITECT
+  ⚡ FOUNDER & CEO @ ZainTech Automation  &nbsp;•&nbsp; 1000+ DAYS OF CONSISTENCY &nbsp;•&nbsp; ELITE ARCHITECT
 </h3>
 
 <br/>
@@ -144,6 +144,6 @@ If you are a founder, enterprise tech lead, or fast-growing startup looking for 
 
 > ***"1000+ days. Zero days off. One mission — make complex tech actually build things."***
 >
-> **— Farzeen Ali, Mr. Consistent**
+> **— Muhammad Zain Ul Abadeen, Mr. Consistent**
 
 </div>
