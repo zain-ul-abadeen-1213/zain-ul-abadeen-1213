@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://herokuapp.com!+👋+I'm+Zain+Ul+Abadeen;Founder+%40+ZainTech Automation Solution+🎥;DevSecOps+%2B+Cyber+Security+🔒;Full-Stack+%2B+Mobile+Architect+💻;AI+Automation+Engineer+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=38&center=true&vCenter=true&width=700&height=80&duration=2000&lines=Hey+There!+👋+I'm+Zain+Ul+Abadeen;Founder+%40+ZainTech+Automation Solution+🎥;DevSecOps+%2B+Cyber+Security+🔒;Full-Stack+%2B+Mobile+Architect+💻;AI+Automation+Engineer+🤖" />
 </div>
 
 <h3 align="center">
@@ -9,19 +9,17 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zainpatel1213@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzeen-ali-533479204)
+  [![Gmail](https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainpatel1213@gmail.com)
+
 </div>
 
 <br/>
 
 <!-- 🌌 FUTURISTIC COMMAND CENTER HEADER -->
 <div align="center">
-  <img width="100%" src="https://vercel.app•%20DevSecOps%20Architect%20•%20AI%20Full-Stack%20Engineer&descAlignY=58&descAlign=50" alt="Header Matrix" />
+  <img width="100%" src="https://vercel.app•%20DevSecOps%20Architect%20•%20AI%20Full-Stack%20Engineer&descAlignY=58&descAlign=50"/>
 </div>
 
 ---
@@ -40,12 +38,12 @@ I am a **Solutions Architect, DevSecOps Engineer, and Tech Educator** specializi
 ## ⚔️ CORE DOMAINS
 
 <div align="center" style="margin-top: 15px; margin-bottom: 15px;">
-  <img src="https://shields.io" alt="DevSecOps"/>
-  <img src="https://shields.io" alt="Cyber Security"/>
-  <img src="https://shields.io" alt="AI Engineer"/>
-  <img src="https://shields.io" alt="Cloud Architect"/>
-  <img src="https://shields.io" alt="FullStack"/>
-  <img src="https://shields.io" alt="Mobile"/>
+  <img src="https://img.shields.io/badge/DevSecOps-7e15f7?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cyber%20Security-111111?style=for-the-badge&logo=hackthebox&logoColor=7e15f7"/>
+  <img src="https://img.shields.io/badge/AI%20Engineer-7e15f7?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Architect-111111?style=for-the-badge&logo=amazonaws&logoColor=7e15f7"/>
+  <img src="https://img.shields.io/badge/FullStack%20Engineer-7e15f7?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile%20Apps-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
 | Capability | Tactical Execution |
@@ -59,75 +57,85 @@ I am a **Solutions Architect, DevSecOps Engineer, and Tech Educator** specializi
 
 ## 🛠️ TECH STACK COMMAND CENTER
 
+<div align="left">
+
 ### 🌐 Frontend & Mobile Architecture
-![Frontend Skills](https://skillicons.dev)  
-`React.js` • `Next.js` • `Nuxt.js` • `Angular` • `React Native (CLI & Expo)` • `TypeScript` • `Tailwind CSS`
+![React](https://skillicons.dev/icons?i=react,nextjs,nuxt,angular,typescript,javascript,tailwind)  
+`React.js` `Next.js` `Nuxt.js` `Angular` `React Native (CLI & Expo)` `TypeScript` `Tailwind CSS`
 
 ### 🔧 Backend, APIs & Orchestration
-![Backend Skills](https://skillicons.dev)  
-`Node.js` • `Express` • `NestJS` • `GraphQL` • `REST APIs` • `Prisma ORM`
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma)  
+`Node.js` `Express` `NestJS` `GraphQL` `REST APIs` `Prisma ORM`
 
 ### 🗄️ Database Clusters & BaaS
-![Database Skills](https://skillicons.dev)  
-`PostgreSQL` • `MongoDB` • `MySQL` • `Redis` • `Supabase` • `Appwrite` • `Firebase`
+![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase,supabase)  
+`PostgreSQL` `MongoDB` `MySQL` `Redis` `Supabase` `Appwrite` `Firebase`
 
 ### ☁️ DevSecOps, Infrastructure & Security Pipelines
-![DevOps Skills](https://skillicons.dev)  
-`AWS` • `Azure` • `GCP` • `Docker` • `Kubernetes` • `Terraform` • `Ansible` • `Jenkins` • `GitHub Actions` • `GitLab CI/CD`  
-`SonarQube` • `HashiCorp Vault` • `GitLeaks` • `Kyverno` • `DefectDojo` • `Syft` • `Grype` • `Trivy`
+![DevOps](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,github,gitlab)  
+`AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `Ansible` `Jenkins` `GitHub Actions` `GitLab CI/CD`  
+`SonarQube` `HashiCorp Vault` `GitLeaks` `Kyverno` `DefectDojo` `Syft` `Grype` `Trivy`
 
 ### 🔒 Offensive Cybersecurity & Pentesting Toolkit
-![Security Skills](https://skillicons.dev)  
-`Kali Linux` • `Parrot OS` • `Wireshark` • `Nmap` • `Metasploit` • `Burp Suite` • `Nessus` • `Nikto` • `Hydra` • `Hashcat`  
-`Ghidra` • `Autopsy` • `Splunk` • `Wazuh` • `QRadar` • `Zero Trust Systems` • `SIEM / SOC Operations`
+![Security](https://skillicons.dev/icons?i=kali,linux)  
+`Kali Linux` `Parrot OS` `Wireshark` `Nmap` `Metasploit` `Burp Suite` `Nessus` `Nikto` `Hydra` `Hashcat`  
+`Ghidra` `Autopsy` `Splunk` `Wazuh` `QRadar` `Zero Trust Systems` `SIEM / SOC Operations`
 
 ### 🤖 Intelligent Systems & Observability
-![Monitoring Skills](https://skillicons.dev)  
-`LLM Integration` • `Autonomous AI Agents` • `DevOps AI Pipelines` • `RAG Systems` • `ELK Stack` • `Grafana` • `Prometheus`
+![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus)  
+`LLM Integration` `Autonomous AI Agents` `DevOps AI Pipelines` `RAG Systems` `ELK Stack` `Grafana` `Prometheus`
+
+</div>
 
 ---
 
-## 🚀 PRODUCTION PORTFOLIO
+## 🛠️ PRODUCTION DEPLOYMENTS & PROJECTS
 
-### 🤖 Machine Learning & AI
-* **[Autonomous RAG Engine](https://github.com)** – Production LLM orchestration pipeline configured with self-healing workflow agents, custom semantic embeddings, and dynamic system memory layout strategies.
+### 🤖 Intelligent Systems & AI
+* **[Autonomous RAG Engine](https://github.com)** – Production-grade LLM orchestration pipeline with self-healing workflow agents and dynamic memory.
+* **[Predictive Analytics Platform](https://github.com)** – High-throughput machine learning cluster built for real-time data ingestion and threat assessment.
 
-### 📱 Full-Stack & App Development
-* **[High-Throughput Mobile Architecture](https://github.com)** – Cross-platform ecosystem framework compiled with React Native CLI, structural TypeScript typing systems, and optimized NestJS multi-tenant routing profiles.
+### 📱 Full-Stack & Mobile Ecosystems
+* **[Cross-Platform Architecture](https://github.com)** – High-performance mobile ecosystem built with React Native CLI and NestJS backend.
+* **[Enterprise SaaS Dashboard](https://github.com)** – Next.js data matrix utilizing Tailwind CSS, TypeScript, and micro-frontend scaling layouts.
 
-### ♾️ DevSecOps & Security Automation
-* **[Zero-Trust GitOps Pipeline Infrastructure](https://github.com)** – High-availability multi-cloud cloud IaC configurations engineered using declarative Terraform templates guarded via automated native GitLeaks scan workflows.
+### ♾️ Cloud Infrastructure & DevSecOps
+* **[Zero-Trust GitOps Pipeline](https://github.com)** – Multi-cloud IaC orchestration using Terraform, Kubernetes, and automated Trivy/SonarQube security guardrails.
+* **[Automated SIEM/SOC Monitor](https://github.com)** – Self-healing security pipeline integrating Wazuh, Splunk, and Prometheus metrics tracking.
 
 ---
 
 ## ⚡ PERFORMANCE MATRIX & METRICS
 
 <div align="center">
-  <img width="100%" src="https://herokuapp.com+🚀;Securing+Cloud+Infrastructures+⚡;Compiling+Next-Gen+AI+Agents+🤖;1000%2B+Days+Of+Pure+Consistency+🔥" alt="Status Matrix" />
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=7E15F7&center=true&vCenter=true&width=1000&height=60&lines=System+Status%3A+Fully+Operational+🚀;Securing+Cloud+Infrastructures+⚡;Compiling+Next-Gen+AI+Agents+🤖;1000%2B+Days+Of+Pure+Consistency+🔥"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="85%" src="https://herokuapp.com" alt="GitHub Streak" />
+  <img width="85%" src="https://herokuapp.com"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>📊 METRIC ACTIVITY STREAM</h3>
-  <img width="100%" src="https://vercel.app" alt="Activity Stream Graph" />
+
+### 📊 METRIC ACTIVITY STREAM
+
+<img width="100%" src="https://vercel.app"/>
+
 </div>
 
 <br/>
 
 <!-- 🔥 Neon Space Divider -->
 <p align="center">
-  <img width="100%" src="https://githubusercontent.com" alt="Divider" />
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/216649449-0b7b5a6a-4b89-4b2b-8e6e-7f3b7b63d7db.gif">
 </p>
 
 <div align="center">
-  <img width="95%" src="https://github.com" style="border-radius: 12px;" alt="Interactive Developer Workspace Mockup" />
+  <img width="95%" src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" style="border-radius: 12px;"/>
 </div>
 
 ---
