@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  ⚡ FOUNDER & CEO @ ZainTech Automation &nbsp;•&nbsp; 1000+ DAYS OF CONSISTENCY &nbsp;•&nbsp; ELITE ARCHITECT
+  ⚡ FOUNDER & CEO @ ZainTech Automation Solution &nbsp;•&nbsp; 1000+ DAYS OF CONSISTENCY &nbsp;•&nbsp; ELITE ARCHITECT
 </h3>
 
 <br/>
