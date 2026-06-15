@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=38&center=true&vCenter=true&width=700&height=80&duration=2000&lines=Hey+There!+👋+I'm+Zain+Ul +Abadeen;Founder+%40+The+Techzeen+🎥;DevSecOps+%2B+Cyber+Security+🔒;Full-Stack+%2B+Mobile+Architect+💻;AI+Automation+Engineer+🤖" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=38&center=true&vCenter=true&width=700&height=80&duration=2000&lines=Hey+There!+👋+I'm+Zain+Ul+Abadeen;Founder+%40+The+Techzeen+🎥;DevSecOps+%2B+Cyber+Security+🔒;Full-Stack+%2B+Mobile+Architect+💻;AI+Automation+Engineer+🤖" />
 </div>
 
 <h3 align="center">
-  ⚡ FOUNDER & CEO @ ZainTech Automation  &nbsp;•&nbsp; 1000+ DAYS OF CONSISTENCY &nbsp;•&nbsp; ELITE ARCHITECT
+  ⚡ FOUNDER & CEO @ ZainTech Automation &nbsp;•&nbsp; 1000+ DAYS OF CONSISTENCY &nbsp;•&nbsp; ELITE ARCHITECT
 </h3>
 
 <br/>
@@ -11,7 +11,7 @@
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzeen-ali-533479204)
-  [![Gmail](https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techzeen10@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainpatel1213@gmail.com)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <!-- 🌌 FUTURISTIC COMMAND CENTER HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7e15f7,100:0d1117&height=240&section=header&text=Muhammad Zain Ul Abadeen%20ALI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mr.%20Consistent%20•%20DevSecOps%20Architect%20•%20AI%20Full-Stack%20Engineer&descAlignY=58&descAlign=50"/>
+  <img width="100%" src="https://vercel.app•%20DevSecOps%20Architect%20•%20AI%20Full-Stack%20Engineer&descAlignY=58&descAlign=50"/>
 </div>
 
 ---
@@ -28,8 +28,7 @@
 
 > **"Most startups hire 4–5 specialists for what I do in one."**
 
-I am a **Solutions Architect, DevSecOps Engineer, and Tech Educator** specializing in elite, security-first digital infrastructure. As the Founder of **[ZainTech Automation Solution](
-https://asset-manager--zainpatel1213.replit.app)**, I run one of Pakistan's premier advanced tech engineering ecosystems on YouTube—backed by **1000+ days of zero-miss consistency**. 
+I am a **Solutions Architect, DevSecOps Engineer, and Tech Educator** specializing in elite, security-first digital infrastructure. As the Founder of **ZainTech Automation Solution**, I run one of Pakistan's premier advanced tech engineering platforms—backed by **1000+ days of zero-miss consistency**.
 
 * **What I Do:** I design, secure, and automate hyper-scalable systems from edge devices to global cloud networks.
 * **Academic Leadership:** Serving as **Program Manager & Faculty @ Denning**, mentoring the next generation of engineers under the curriculum of the **University of Karachi** & **University of Al Nafi International**.
@@ -61,8 +60,8 @@ https://asset-manager--zainpatel1213.replit.app)**, I run one of Pakistan's prem
 <div align="left">
 
 ### 🌐 Frontend & Mobile Architecture
-![React](https://skillicons.dev/icons?i=react,nextjs,nuxt,angular,typescript,javascript,tailwind,react)  
-`React.js` `Next.js 16` `Nuxt.js` `Angular 19` `React Native (CLI & Expo)` `TypeScript` `Tailwind CSS`
+![React](https://skillicons.dev/icons?i=react,nextjs,nuxt,angular,typescript,javascript,tailwind)  
+`React.js` `Next.js` `Nuxt.js` `Angular` `React Native (CLI & Expo)` `TypeScript` `Tailwind CSS`
 
 ### 🔧 Backend, APIs & Orchestration
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma)  
@@ -89,6 +88,23 @@ https://asset-manager--zainpatel1213.replit.app)**, I run one of Pakistan's prem
 </div>
 
 ---
+
+## 🛠️ PRODUCTION DEPLOYMENTS & PROJECTS
+
+### 🤖 Intelligent Systems & AI
+* **[Autonomous RAG Engine](https://github.com)** – Production-grade LLM orchestration pipeline with self-healing workflow agents and dynamic memory.
+* **[Predictive Analytics Platform](https://github.com)** – High-throughput machine learning cluster built for real-time data ingestion and threat assessment.
+
+### 📱 Full-Stack & Mobile Ecosystems
+* **[Cross-Platform Architecture](https://github.com)** – High-performance mobile ecosystem built with React Native CLI and NestJS backend.
+* **[Enterprise SaaS Dashboard](https://github.com)** – Next.js data matrix utilizing Tailwind CSS, TypeScript, and micro-frontend scaling layouts.
+
+### ♾️ Cloud Infrastructure & DevSecOps
+* **[Zero-Trust GitOps Pipeline](https://github.com)** – Multi-cloud IaC orchestration using Terraform, Kubernetes, and automated Trivy/SonarQube security guardrails.
+* **[Automated SIEM/SOC Monitor](https://github.com)** – Self-healing security pipeline integrating Wazuh, Splunk, and Prometheus metrics tracking.
+
+---
+
 ## ⚡ PERFORMANCE MATRIX & METRICS
 
 <div align="center">
@@ -98,7 +114,7 @@ https://asset-manager--zainpatel1213.replit.app)**, I run one of Pakistan's prem
 <br/>
 
 <div align="center">
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad Zain ul Abadeen&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7e15f7&ring=7e15f7&fire=ffffff&currStreakLabel=7e15f7"/>
+  <img width="85%" src="https://herokuapp.com"/>
 </div>
 
 <br/>
@@ -107,7 +123,7 @@ https://asset-manager--zainpatel1213.replit.app)**, I run one of Pakistan's prem
 
 ### 📊 METRIC ACTIVITY STREAM
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad - Zain -ali&bg_color=0D0221&color=b347ff&line=7e15f7&point=ff6ef7&area=true&hide_border=true&area_color=2d0a5c"/>
+<img width="100%" src="https://vercel.app"/>
 
 </div>
 
@@ -133,9 +149,7 @@ If you are a founder, enterprise tech lead, or fast-growing startup looking for 
 * 🤖 **Automate:** Self-correcting AI workflows, bespoke multi-agent architecture, & RAG integrations.
 * 🛡️ **Audit:** Comprehensive offensive pentesting, vulnerability assessments, & red team simulations.
 
-
-**🌐 Official Application →** [https://asset-manager--zainpatel1213.replit.app/)  
-**📧 Business Email →** [zainpatel1213@gmail.com](zainpatel1312@gmail.com)
+**📧 Business Email →** [zainpatel1213@gmail.com](mailto:zainpatel1213@gmail.com)
 
 <br/>
 
