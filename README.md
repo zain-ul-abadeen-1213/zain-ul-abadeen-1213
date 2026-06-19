@@ -52,6 +52,7 @@ I am a **Solutions Architect, DevSecOps Engineer, and Tech Educator** specializi
 | ⚙️ **DevSecOps & Cloud** | Zero-Trust cloud configurations on AWS, Azure, GCP via declarative IaC & CI/CD |
 | 🔒 **Cybersecurity & Pentesting** | Offensive audits, vulnerability management, SIEM/SOC ops, and hardening |
 | 🤖 **AI Agentic Automation** | Production LLM orchestration, RAG pipelines, and self-healing workflow agents |
+🧠 Advanced AI & MLOpsNext-gen Generative AI architectures, multi-agent orchestration, automated model evaluation, and scalable edge-to-cloud MLOps pipelines.
 
 ---
 
