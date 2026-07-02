@@ -1,164 +1,70 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=38&center=true&vCenter=true&width=700&height=80&duration=2000&lines=Hey+There!+👋+I'm+Zain+Ul+Abadeen;Founder+%40+ZainTech+AutomationSolution+🎥;DevSecOps+%2B+Cyber+Security+🔒;Full-Stack+%2B+Mobile+Architect+💻;AI+Automation+Engineer+🤖" />
-</div>
+# 🚀 Advanced ML Engineering & Generative AI Ecosystem
 
-<h3 align="center">
-  ⚡ FOUNDER & CEO @ ZainTech Automation Solution &nbsp;•&nbsp; 1000+ DAYS OF CONSISTENCY &nbsp;•&nbsp; ELITE ARCHITECT
-</h3>
-
-<br/>
-
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzeen-ali-533479204)
-  [![Gmail](https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainpatel1213@gmail.com)
-
-</div>
-
-<br/>
-
-<!-- 🌌 FUTURISTIC COMMAND CENTER HEADER -->
-<div align="center">
-  <img width="100%" src="https://vercel.app•%20DevSecOps%20Architect%20•%20AI%20Full-Stack%20Engineer&descAlignY=58&descAlign=50"/>
-</div>
+A production-grade repository showcasing enterprise-level implementations across the AI lifecycle—ranging from statistical data engineering and classical machine learning pipelines to advanced Generative AI architectures, Agentic RAG, and multi-agent state orchestration using LangGraph.
 
 ---
 
-## 👨‍💻 DEPLOYMENT PROFILE: Muhammad Zain Ul Abadeen
+## 🛠️ Tech Stack & Ecosystem
 
-> **"Most startups hire 4–5 specialists for what I do in one."**
-
-I am a **Solutions Architect, DevSecOps Engineer, and Tech Educator** specializing in elite, security-first digital infrastructure. As the Founder of **ZainTech Automation Solution**, I run one of Pakistan's premier advanced tech engineering platforms—backed by **1000+ days of zero-miss consistency**.
-
-* **What I Do:** I design, secure, and automate hyper-scalable systems from edge devices to global cloud networks.
-* **Academic Leadership:** Serving as **Program Manager & Faculty @ Denning**, mentoring the next generation of engineers under the curriculum of the **University of Karachi** & **University of Al Nafi International**.
-
----
-
-## ⚔️ CORE DOMAINS
-
-<div align="center" style="margin-top: 15px; margin-bottom: 15px;">
-  <img src="https://img.shields.io/badge/DevSecOps-7e15f7?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cyber%20Security-111111?style=for-the-badge&logo=hackthebox&logoColor=7e15f7"/>
-  <img src="https://img.shields.io/badge/AI%20Engineer-7e15f7?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Architect-111111?style=for-the-badge&logo=amazonaws&logoColor=7e15f7"/>
-  <img src="https://img.shields.io/badge/FullStack%20Engineer-7e15f7?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mobile%20Apps-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
-
-| Capability | Tactical Execution |
-|---|---|
-| 💻 **Full-Stack & Mobile** | High-throughput web & cross-platform ecosystems — Next.js, React Native, NestJS |
-| ⚙️ **DevSecOps & Cloud** | Zero-Trust cloud configurations on AWS, Azure, GCP via declarative IaC & CI/CD |
-| 🔒 **Cybersecurity & Pentesting** | Offensive audits, vulnerability management, SIEM/SOC ops, and hardening |
-| 🤖 **AI Agentic Automation** | Production LLM orchestration, RAG pipelines, and self-healing workflow agents |
-🧠 Advanced AI & MLOpsNext-gen Generative AI architectures, multi-agent orchestration, automated model evaluation, and scalable edge-to-cloud MLOps pipelines.
+* **Core AI/ML:** Python, Scikit-Learn, NumPy, Pandas, MLxtend
+* **LLM Orchestration:** LangChain, LangGraph, Pydantic (v2)
+* **Vector Architecture:** ChromaDB, Semantic Embeddings
+* **Inference & Compute:** Groq API (Ultra-low latency), Ollama (Local LLM deployments)
+* **Supported Foundations:** OpenAI (GPT), Google Gemini, Anthropic Claude, HuggingFace
+* **UI Layer:** Streamlit
 
 ---
 
-## 🛠️ TECH STACK COMMAND CENTER
+## 🏗️ Architectural Framework & Core Modules
 
-<div align="left">
+### 1. Data Engineering & Feature Pipeline
+An end-to-end data processing engine designed to handle real-world, messy datasets with mathematical precision.
+* **Robust Imputation:** Categorical and numerical missing-value handling via automated Scikit-Learn pipelines.
+* **Feature Transformation:** Implementation of `FunctionTransformer`, categorical encoding (One-Hot, Ordinal, Label), and scaling protocols (Standardization vs MinMax).
+* **Statistical Anomaly Detection:** Outlier identification and elimination using Interquartile Range (IQR) and Z-Score bounds.
+* **Dimensionality Optimization:** Feature selection utilizing Forward and Backward Elimination via `MLxtend`.
 
-### 🌐 Frontend & Mobile Architecture
-![React](https://skillicons.dev/icons?i=react,nextjs,nuxt,angular,typescript,javascript,tailwind)  
-`React.js` `Next.js` `Nuxt.js` `Angular` `React Native (CLI & Expo)` `TypeScript` `Tailwind CSS`
+### 2. Classical Machine Learning & Optimization
+Predictive and prescriptive modeling featuring robust tuning, regularized architectures, and unsupervised clustering.
+* **Supervised Models:** Linear/Polynomial Regressions, Regularized variants ($L1$ Lasso / $L2$ Ridge), Logistic Regression (Multiclass/Polynomial), Naive Bayes, Decision Trees (with Pre/Post-Pruning), and Support Vector Machines (SVM).
+* **Unsupervised Topologies:** Spatial density and hierarchical clustering models including K-Means, Agglomerative Hierarchical, and DBSCAN evaluated via Silhouette Scoring. Also features Association Rule Learning (Apriori & FP-Growth).
+* **Ensemble Mechanics:** Advanced bagging configurations (Random Forests) and deterministic Voting/Averaging Classifiers.
+* **Hyperparameter Tuning:** Automated search optimization using `GridSearchCV`, `RandomizedSearchCV`, and Cross-Validation matrices.
 
-### 🔧 Backend, APIs & Orchestration
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma)  
-`Node.js` `Express` `NestJS` `GraphQL` `REST APIs` `Prisma ORM`
+### 3. Contextual Generative AI & Retrieval (RAG)
+Production-ready Retrieval-Augmented Generation architectures built to mitigate hallucinations and inject enterprise context.
+* **Deterministic Parsing:** Text chunking using `RecursiveCharacterTextSplitter` paired with semantic vector generation.
+* **Vector Store Infusion:** Persistent indexing and high-performance retrieval utilizing ChromaDB.
+* **Streaming & Memory:** Low-latency response streaming combined with persistent chat histories for fluid UI/UX.
 
-### 🗄️ Database Clusters & BaaS
-![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase,supabase)  
-`PostgreSQL` `MongoDB` `MySQL` `Redis` `Supabase` `Appwrite` `Firebase`
-
-### ☁️ DevSecOps, Infrastructure & Security Pipelines
-![DevOps](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,github,gitlab)  
-`AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `Ansible` `Jenkins` `GitHub Actions` `GitLab CI/CD`  
-`SonarQube` `HashiCorp Vault` `GitLeaks` `Kyverno` `DefectDojo` `Syft` `Grype` `Trivy`
-
-### 🔒 Offensive Cybersecurity & Pentesting Toolkit
-![Security](https://skillicons.dev/icons?i=kali,linux)  
-`Kali Linux` `Parrot OS` `Wireshark` `Nmap` `Metasploit` `Burp Suite` `Nessus` `Nikto` `Hydra` `Hashcat`  
-`Ghidra` `Autopsy` `Splunk` `Wazuh` `QRadar` `Zero Trust Systems` `SIEM / SOC Operations`
-
-### 🤖 Intelligent Systems & Observability
-![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus)  
-`LLM Integration` `Autonomous AI Agents` `DevOps AI Pipelines` `RAG Systems` `ELK Stack` `Grafana` `Prometheus`
-
-</div>
+### 4. Multi-Agent Systems & Graph Orchestration
+State-driven, autonomous AI worker nodes designed for complex, non-linear enterprise workflows.
+* **LangGraph Coordination:** Cyclic graph architectures routing tasks dynamically across specialized Multi-Agent systems.
+* **Autonomous Tooling:** Agents equipped with native function calling capabilities (e.g., executing live Google Searches, managing SQL DB transactions).
+* **Human-in-the-Loop (HITL):** Manual approval gates and runtime state overrides integrated directly into graph execution paths for compliance-driven workflows.
 
 ---
 
-## 🛠️ PRODUCTION DEPLOYMENTS & PROJECTS
+## 📂 Featured Applications & Showcases
 
-### 🤖 Intelligent Systems & AI
-* **[Autonomous RAG Engine](https://github.com)** – Production-grade LLM orchestration pipeline with self-healing workflow agents and dynamic memory.
-* **[Predictive Analytics Platform](https://github.com)** – High-throughput machine learning cluster built for real-time data ingestion and threat assessment.
+### 🤖 Intelligent Orchestration & Agents
+* **Collaborative Multi-Agent Workspace:** A complex system where multiple specialized agents communicate via LangGraph nodes to solve analytical problems.
+* **SQL Database Autonomous Task Manager:** Natural language-to-SQL agent that safely queries schemas, executes transactions, and summarizes insights.
+* **Context-Aware Web Agent:** A Google Search-integrated agent leveraging structured memory to synthesize real-time data into comprehensive technical reports.
 
-### 📱 Full-Stack & Mobile Ecosystems
-* **[Cross-Platform Architecture](https://github.com)** – High-performance mobile ecosystem built with React Native CLI and NestJS backend.
-* **[Enterprise SaaS Dashboard](https://github.com)** – Next.js data matrix utilizing Tailwind CSS, TypeScript, and micro-frontend scaling layouts.
+### 📄 Enterprise Knowledge Base (RAG)
+* **Agentic RAG Engine:** An advanced, agent-guided retrieval pipeline that validates context before generating answers, severely limiting hallucinations.
+* **Production PDF QnA Platform:** A complete asynchronous RAG application allowing users to upload documents, parse vectors, and chat natively via Streamlit.
 
-### ♾️ Cloud Infrastructure & DevSecOps
-* **[Zero-Trust GitOps Pipeline](https://github.com)** – Multi-cloud IaC orchestration using Terraform, Kubernetes, and automated Trivy/SonarQube security guardrails.
-* **[Automated SIEM/SOC Monitor](https://github.com)** – Self-healing security pipeline integrating Wazuh, Splunk, and Prometheus metrics tracking.
-
----
-
-## ⚡ PERFORMANCE MATRIX & METRICS
-
-<div align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=7E15F7&center=true&vCenter=true&width=1000&height=60&lines=System+Status%3A+Fully+Operational+🚀;Securing+Cloud+Infrastructures+⚡;Compiling+Next-Gen+AI+Agents+🤖;1000%2B+Days+Of+Pure+Consistency+🔥"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="85%" src="https://herokuapp.com"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📊 METRIC ACTIVITY STREAM
-
-<img width="100%" src="https://vercel.app"/>
-
-</div>
-
-<br/>
-
-<!-- 🔥 Neon Space Divider -->
-<p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/216649449-0b7b5a6a-4b89-4b2b-8e6e-7f3b7b63d7db.gif">
-</p>
-
-<div align="center">
-  <img width="95%" src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" style="border-radius: 12px;"/>
-</div>
+### 🏎️ High-Performance Chat Interfaces
+* **Groq-Powered Ultra-Low Latency Bot:** An enterprise QnA solution utilizing Groq hardware acceleration for near-instantaneous token generation.
+* **Multi-LLM Dynamic Routing:** A centralized gateway allowing seamless, live switching between Gemini, Claude, and OpenAI foundations through structured Pydantic schemas.
 
 ---
 
-## 🤝 STRATEGIC COLLABORATIONS
+## ⚡ Quick Start
 
-If you are a founder, enterprise tech lead, or fast-growing startup looking for a heavy-hitting technical co-pilot to optimize and secure your roadmap, let's deploy together:
-
-* 🏗️ **Architect:** Production web architectures & native cross-platform engineering.
-* 🔐 **Harden:** Enterprise-grade DevSecOps pipelines, automated compliance, & cloud hardening.
-* 🤖 **Automate:** Self-correcting AI workflows, bespoke multi-agent architecture, & RAG integrations.
-* 🛡️ **Audit:** Comprehensive offensive pentesting, vulnerability assessments, & red team simulations.
-
-**📧 Business Email →** [zainpatel1213@gmail.com](mailto:zainpatel1213@gmail.com)
-
-<br/>
-
-<!-- ████ ELITE FINAL QUOTE CARD ████ -->
-<div align="center">
-
-> ***"1000+ days. Zero days off. One mission — make complex tech actually build things."***
->
-> **— Muhammad Zain Ul Abadeen, Mr. Consistent**
-
-</div>
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/your-username/repository-name.git](https://github.com/your-username/repository-name.git)
+   cd repository-name
