@@ -1,42 +1,38 @@
 # 👋 Salam, I'm Muhammad Zain Ul Abadeen
 
 <p align="center">
-  <!-- Dynamic Typing Animation Backend/Security Domain -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Engineer+(NestJS+%2B+Java);Cybersecurity+%26+SecOps+Enthusiast;Building+Scalable+%26+Secure+Systems" alt="Typing Animation" />
+  <!-- Modern Vector Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF0&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Developer;Backend+Architect+(NestJS+/+Java);Cybersecurity+%26+Penetration+Testing;Machine+Learning+%26+GenAI+Engineer" alt="Typing Animation" />
 </p>
-
----
-
-### 🧑‍💻 About Me
-I am a passionate **Software Developer** focused on engineering secure, high-performance backend architectures and exploring modern AI integrations. I bridge the gap between robust application development and proactive security engineering.
-
-* 🛠️ Currently developing secure microservices utilizing **NestJS**, **Java**, and **PostgreSQL**.
-* 🛡️ Deeply interested in **Cybersecurity**, penetration testing, and vulnerability assessment (Kali Linux, Wireshark, Nessus).
-* 🤖 Experimenting with **Generative AI core architectures**, LangChain orchestration, and agentic workflows.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Domain | Technologies |
-| --- | --- |
-| **Backend & Core** | NestJS, Java, Node.js, Python |
-| **Databases** | PostgreSQL, MySQL, Core Storage Matrices |
-| **Security & NetSec** | Kali Linux, Bettercap, Wireshark, Nessus, Threat Modeling |
-| **AI Orchestration** | LangChain, LangGraph, ChromaDB, LLM APIs |
-
----
-
-### 📊 GitHub Metrics & Insights
 
 <p align="center">
-  <!-- Apne stats ko dynamic dekhne ke liye 'M-Zain-Ul-Aba' ko apne actual username se badlein -->
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Zain-Ul-Aba&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Zain's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Zain-Ul-Aba&layout=compact&theme=tokyonight&hide_border=true" alt="Zain's Top Languages" width="48%" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali" />
+  <img src="https://img.shields.io/badge/LangGraph-Production-red?style=for-the-badge" alt="LangGraph" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) <!-- Apna link lagayein -->
-* 📧 **Email:** your.email@example.com
+## 🧑‍💻 Core Domain Expertise
+
+* **Backend Architectures:** Engineering high-throughput distributed microservices using **NestJS**, **Java (Spring Boot ecosystem)**, and robust data isolation layers inside **PostgreSQL**.
+* **SecOps & Cybersecurity:** Active practitioner of proactive threat modeling, penetration testing tools (**Bettercap**, **Wireshark**, **Nessus**), and custom infrastructure defense on **Kali Linux**.
+* **Advanced AI R&D:** Building contextual software layers around Foundation Models utilizing mathematical ML pipelines, Agentic RAG, and Multi-Agent structures.
+
+---
+
+## 📈 My Advanced Intelligence & Data Roadmap
+Here is the production-grade curriculum and milestone stack I have engineered and mastered across the Machine Learning and Generative AI lifecycles:
+
+```mermaid
+graph TD
+    %% Styling Blocks
+    classDef ml fill:#1a1a2e,stroke:#00fff0,stroke-width:2px;
+    classDef dl fill:#162447,stroke:#39FF14,stroke-width:2px;
+    classDef genai fill:#1f4068,stroke:#ff007f,stroke-width:2px;
+
+    A[Data Engineering & Preprocessing]:::ml --> B[Classical Supervised/Unsupervised Learning]:::ml
+    B --> C[Ensemble Mechanics & Advanced Tuning]:::ml
+    C --> D[Contextual Foundation Models & RAG]:::dl
+    D --> E[LangGraph Multi-Agent Stateful Architectures]:::genai
