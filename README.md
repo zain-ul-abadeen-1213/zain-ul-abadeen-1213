@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Modern Vector Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF0&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Developer;Backend+Architect+(NestJS+/+Java);Cybersecurity+%26+Penetration+Testing;Machine+Learning+%26+GenAI+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF0&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Developer;Ai+Engineer+Devops+Engineer;Cybersecurity+%26+Penetration+Testing;Machine+Learning+%26+GenAI+Engineer" alt="Typing Animation" />
 </p>
 
 <p align="center">
