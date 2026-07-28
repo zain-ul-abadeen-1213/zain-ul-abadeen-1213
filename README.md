@@ -67,11 +67,32 @@ My practice is documented across:
 
 ---
 
+## 🚀 Key Focus Areas & Methodologies
+
+Below are the core technical domains I actively practice and refine:
+
+* **🤖 AI & Intelligent Systems:** Designing modular backends, REST APIs with FastAPI/Flask, and integrating Machine Learning models with real-world inputs.
+* **👁️ Computer Vision Processing:** Implementing real-time video stream handling, image transformations, and feature detection using OpenCV.
+* **☁️ Cloud & Infrastructure Automation:** Building reproducible infrastructure setups, container management using Docker & Kubernetes, and system monitoring using Grafana.
+* **🔐 Security Integration (DevSecOps):** Integrating security checks into CI/CD workflows, performing vulnerability assessments, and adopting security-first coding patterns.
+
+---
+
+## 📈 Learning & Exploration Roadmap
+
+- [x] Master Python Data Science Ecosystem (`NumPy`, `Pandas`, `Matplotlib`, `Scikit-learn`)
+- [x] Build and Deploy Scalable REST APIs (`FastAPI`, `Flask`, `Express`)
+- [x] Infrastructure as Code & Containerization (`Docker`, `Kubernetes`, `Ansible`)
+- [ ] Deepen Advanced LLM Orchestration & Autonomous AI Agents
+- [ ] Advanced Kubernetes Service Mesh & Cloud Native Security Assessment
+
+---
+
 ## 📊 GitHub Contribution Graph (Animated)
 
 <div align="center">
 
-<!-- Animated contribution graph using an external tool (requires periodic updates or using an automated action) -->
+<!-- Animated contribution graph using an external tool -->
 ![GitHub Contribution Animation](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zain-ul-abadeen-1213&theme=tokyonight)
 
 </div>
@@ -83,7 +104,12 @@ My practice is documented across:
 - **GitHub Profile**: [github.com/zain-ul-abadeen-1213](https://github.com/zain-ul-abadeen-1213)
 - **Email**: [zainpatel1213@gmail.com](mailto:zainpatel1213@gmail.com)
 
+<br />
+
 ---
+
 <div align="center">
-⚡ <i>"Keep learning, keep building, keep securing."</i>
+
+⚡ *<b>"Keep learning, keep building, keep securing."</b>*
+
 </div>
