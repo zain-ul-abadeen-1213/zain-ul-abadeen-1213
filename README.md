@@ -1,120 +1,48 @@
-# Hi there, I'm Muhammad Zain Ul Abadeen 👋 
+# Hi, I'm Zain Ul Abdin 👋
 
-<div align="center">
+**DevOps Engineer | Founder & CEO — Zain Tech Automation Solutions | Karachi, Pakistan**
 
-<!-- ANIMATED TYPING HEADER WITH FULL AI & DEVOPS FOCUS -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Muhammad+Zain+Ul+Abadeen;AI+Engineer+%26+Artificial+Intelligence+Developer;Machine+Learning+%26+Computer+Vision+Specialist;Python+Full+Stack+AI+Developer;DevOps%2C+AIOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
-</a>
+I build and automate infrastructure: CI/CD pipelines, containers, infrastructure as code, and monitoring. Every major project below is public, with run evidence and verification scripts — no inflated claims, just work you can open and check.
 
-<!-- PROFILE STATUS BADGES -->
-[![GitHub followers](https://img.shields.io/github/followers/zain-ul-abadeen-1213?style=for-the-badge&logo=github&color=007ACC)](https://github.com/zain-ul-abadeen-1213)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:zainpatel1213@gmail.com)
+I am also a **Hafiz and Alim**, and the founder of **Zain Tech Automation Solutions** — *Automate. Accelerate. Achieve.*
 
-</div>
+- 🌐 **Website:** https://zaintechautomationsolutions.lovable.app/
+- 📧 **Email:** zainpatel1213@gmail.com
+- 💬 **WhatsApp:** +92 322 1837390
+- 🎓 **Currently:** AIOps — Level 6 (in progress)
+- 🔭 **Open to:** Junior/trainee DevOps roles and freelance automation projects
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Featured Projects — all verified, with evidence
 
-I am a dedicated **AI Engineer, Machine Learning Specialist, and Full Stack AI Developer** focused on designing, building, and deploying intelligent software systems, automated pipelines, and cloud-native infrastructure.
-
-> *"I regularly upload my hands-on practice, learning exercises, scripts, and experimental code to my GitHub profile."*
-
-- 🤖 **Artificial Intelligence & Machine Learning:** Building predictive models, data processing pipelines, computer vision systems, and intelligent APIs.
-- 👁️ **Computer Vision & Image Processing:** Real-time video processing, feature extraction, and image manipulation using OpenCV.
-- ⚡ **Full Stack & REST API Engineering:** Developing high-performance asynchronous backends using FastAPI, Flask, React, and modern microservices.
-- ☁️ **DevOps & AIOps Focus:** Automating deployments via CI/CD, containerizing applications with Docker, Kubernetes orchestration, and system monitoring.
-
----
-
-## 🏗️ Skills Architecture & Domain Expertise
-
-<div align="center">
-
-<!-- Dynamic activity graph based on commit frequency and categories -->
-![Skills Distribution](https://github-readme-activity-graph.vercel.app/graph?username=zain-ul-abadeen-1213&bg_color=1F2937&color=EBF5FF&line=2563EB&point=EBF5FF&area=true&hide_border=true)
-
-</div>
-
-| Domain | Detailed Technologies & Frameworks |
-| :--- | :--- |
-| **Artificial Intelligence (AI)** | `Artificial Intelligence (AI)` `AI System Architecture` `Prompt Engineering` `AI Integration` |
-| **Machine Learning (ML)** | `Machine Learning (ML)` `Scikit-learn` `Predictive Modeling` `Data Preprocessing` |
-| **Computer Vision (CV)** | `Computer Vision` `OpenCV` `Image Processing` `Video Analysis` |
-| **Data Science & Analytics** | `NumPy` `Pandas` `Matplotlib` `Seaborn` `Exploratory Data Analysis (EDA)` |
-| **Programming Languages** | `Python` `JavaScript` `HTML5` `CSS3` |
-| **Frontend Development** | `React` `HTML5` `CSS3` `JavaScript` |
-| **Backend & REST APIs** | `FastAPI` `Flask` `Node.js` `Express` `RESTful Web Services` |
-| **DevOps, AIOps & Cloud** | `Docker` `Kubernetes` `Jenkins` `GitHub Actions` `GitLab CI/CD` `Ansible` `Grafana` `Ubuntu Linux` |
-| **Cyber Security** | `Ethical Hacking` `Penetration Testing` `DevSecOps Practices` |
-| **Version Control** | `Git` `GitHub` `GitLab` |
+| Project | What it proves |
+|---|---|
+| [Multi-Tier AWS Infrastructure with Terraform](https://github.com/zain-ul-abadeen-1213/terraform-multi-tier-aws) | VPC across 2 AZs, ALB + Auto Scaling Group, RDS MySQL in private tier. Applied to AWS (**28 resources**), verified serving live traffic, then destroyed to control cost. |
+| [Multi-Environment CI/CD Pipeline](https://github.com/zain-ul-abadeen-1213/multi-env-deployment) | GitHub Actions with a self-hosted runner; one artifact promoted Dev → QA → Production with manual approval gates and SSH deployments. |
+| [Jenkins CI/CD Pipeline](https://github.com/zain-ul-abadeen-1213/jenkins-cicd-pipeline) | Declarative Pipeline-from-SCM (Jenkinsfile): verify, package a versioned artifact, deploy with a written receipt — build **SUCCESS**. |
+| [Ansible Server Automation](https://github.com/zain-ul-abadeen-1213/ansible-server-automation) | One playbook configuring 3 Ubuntu servers over SSH key auth. Idempotency proven — rerun changed=0; verification **3/3 PASS**. |
+| [Kubernetes Cluster Deployment](https://github.com/zain-ul-abadeen-1213/kubernetes-cluster-deployment) | Local 3-node kind cluster, 3 replicas behind a NodePort service, rolling update V1 → V2 with **zero downtime**; verification 4/4. |
+| [Kubernetes Autoscaling under Load (HPA)](https://github.com/zain-ul-abadeen-1213/kubernetes-autoscaling-hpa) | Load drove CPU to 204% and the HPA scaled the deployment **1 → 4 replicas on its own**; verify script Passed 5 / Failed 0. |
+| [Prometheus & Grafana Monitoring](https://github.com/zain-ul-abadeen-1213/prometheus-grafana-monitoring) | Docker Compose monitoring stack (Prometheus, node-exporter, cAdvisor, Grafana), 6-panel dashboard, all targets UP. |
+| [Dockerized App on AWS ECR](https://github.com/zain-ul-abadeen-1213/exportsight-docker-aws-ecr) | ExportSight BI application containerized with Docker and pushed to Amazon ECR (ap-south-1). |
+| [ExportSight — live product](https://github.com/zain-ul-abadeen-1213/exportsight) | Business intelligence dashboard for textile exporters. **Live demo:** https://exportsight.streamlit.app/ |
 
 ---
 
-## 🧪 Practical Hands-On Practice Labs (Activity Chart)
+## 🛠️ Skills
 
-Rather than listing inflated claims, I focus on real execution. This chart represents my real-world commit activity across various domains:
+- **DevOps & Cloud:** Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Ansible, Prometheus, Grafana, AWS (EC2, S3, VPC, IAM, ECR, ALB)
+- **Systems:** Linux administration (Debian/Ubuntu), SSH, Bash scripting
+- **Languages & Data:** Python, Git & GitHub, SQL Server / T-SQL (project work)
+- **Project experience:** FastAPI / Flask, Streamlit, Power BI (churn analytics project in progress)
 
-<div align="center">
+## 📚 Currently learning
 
-![GitHub Activity Streak](https://github-readme-streak-stats.herokuapp.com/?user=zain-ul-abadeen-1213&theme=tokyonight&hide_border=true&border_radius=10)
-
-</div>
-
-My practice is documented across:
-
-- 🧠 **AI & Machine Learning**: Data preprocessing, feature engineering, model evaluation, and computer vision pipelines using OpenCV and Scikit-learn.
-- 🐍 **Python & Backend**: Designing high-performance async REST APIs using FastAPI and Flask integrated with AI models.
-- 🐳 **Infrastructure & DevOps**: Containerization with Docker, Kubernetes cluster orchestration, and automated CI/CD workflows using GitHub Actions / GitLab.
-- 🐧 **Systems & Security**: Linux administration, Ansible infrastructure automation, and ethical hacking lab scenarios.
+- AIOps — Level 6 (in progress)
+- Service Mesh with Istio (in progress)
+- GitOps with ArgoCD (in progress)
 
 ---
 
-## 🚀 Key Focus Areas & Methodologies
-
-Below are the core technical domains I actively practice and refine:
-
-* **🤖 AI & Intelligent Systems:** Designing modular backends, REST APIs with FastAPI/Flask, and integrating Machine Learning models with real-world inputs.
-* **👁️ Computer Vision Processing:** Implementing real-time video stream handling, image transformations, and feature detection using OpenCV.
-* **☁️ Cloud & Infrastructure Automation:** Building reproducible infrastructure setups, container management using Docker & Kubernetes, and system monitoring using Grafana.
-* **🔐 Security Integration (DevSecOps):** Integrating security checks into CI/CD workflows, performing vulnerability assessments, and adopting security-first coding patterns.
-
----
-
-## 📈 Learning & Exploration Roadmap
-
-- [x] Master Python Data Science & ML Ecosystem (`NumPy`, `Pandas`, `Matplotlib`, `Scikit-learn`, `OpenCV`)
-- [x] Build and Deploy Scalable REST APIs & AI Backends (`FastAPI`, `Flask`, `Express`)
-- [x] Infrastructure as Code, Containerization & CI/CD (`Docker`, `Kubernetes`, `Ansible`, `GitHub Actions`)
-- [ ] Deepen Advanced LLM Orchestration, Prompt Engineering & Autonomous AI Agents
-- [ ] Advanced Kubernetes Service Mesh, AIOps Observability & Cloud Security
-
----
-
-## 📊 GitHub Contribution Graph (Animated)
-
-<div align="center">
-
-<!-- Animated contribution graph -->
-![GitHub Contribution Animation](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zain-ul-abadeen-1213&theme=tokyonight)
-
-</div>
-
----
-
-## 📬 Get In Touch
-
-- **GitHub Profile**: [github.com/zain-ul-abadeen-1213](https://github.com/zain-ul-abadeen-1213)
-- **Email**: [zainpatel1213@gmail.com](mailto:zainpatel1213@gmail.com)
-
-<br />
-
----
-
-<div align="center">
-
-⚡ *<b>"Keep learning, keep building, keep securing."</b>*
-
-</div>
+⚡ *"Keep learning, keep building — and verify everything."*
