@@ -2,7 +2,7 @@
 
 **DevOps Engineer | Founder & CEO — Zain Tech Automation Solutions | Karachi, Pakistan**
 
-I build and automate infrastructure: CI/CD pipelines, containers, infrastructure as code, and monitoring. Every major project below is public, with run evidence and verification scripts — no inflated claims, just work you can open and check.
+I build and automate infrastructure: CI/CD pipelines, containers, infrastructure as code, and monitoring. Alongside DevOps, I build machine learning projects and practice cyber security in my own home lab. Every major project below is public, with run evidence and verification scripts — no inflated claims, just work you can open and check.
 
 I am also a **Hafiz and Alim**, and the founder of **Zain Tech Automation Solutions** — *Automate. Accelerate. Achieve.*
 
@@ -30,10 +30,29 @@ I am also a **Hafiz and Alim**, and the founder of **Zain Tech Automation Soluti
 
 ---
 
+## 🤖 Machine Learning — project work
+
+| Project | What it is |
+|---|---|
+| [Zain Doctor — Multiple Disease Prediction](https://github.com/zain-ul-abadeen-1213/zain-doctor) | Streamlit app with 3 trained SVM models — Diabetes (8 features), Heart Disease (13), Parkinson's (22 voice features). FastAPI backend built and tested locally; Flask version prepared for deployment. |
+| **Customer Churn Analytics (in progress)** | SQL Server ETL + Power BI dashboards + a Random Forest churn-prediction model on telecom data. |
+| [ExportSight — live product](https://github.com/zain-ul-abadeen-1213/exportsight) | Business intelligence dashboard for textile exporters. **Live demo:** https://exportsight.streamlit.app/ |
+
+## 🔐 Cyber Security — home lab practice
+
+| Project | What it is |
+|---|---|
+| [Password Security Audit Lab](https://github.com/zain-ul-abadeen-1213/password-security-audit-lab) | Hands-on audit in my own Kali Linux lab: John and Hashcat tested against MD5 hashes; Medusa and Hydra tested against my own VM's SSH — with a full written report and remediation notes. Own systems only. |
+| **Kali Linux Home Lab** | Self-built practice lab (VirtualBox, own network): Wireshark traffic analysis practice, OWASP Top 10 study, blue-team tooling study. |
+
+---
+
 ## 🛠️ Skills
 
 - **DevOps & Cloud:** Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Ansible, Prometheus, Grafana, AWS (EC2, S3, VPC, IAM, ECR, ALB)
 - **Systems:** Linux administration (Debian/Ubuntu), SSH, Bash scripting
+- **Machine Learning:** scikit-learn (SVM, Random Forest), Pandas, NumPy, Streamlit, model evaluation
+- **Cyber Security (lab practice):** Kali Linux, John, Hashcat, Hydra, Medusa, Wireshark
 - **Languages & Data:** Python, Git & GitHub, SQL Server / T-SQL (project work)
 - **Project experience:** FastAPI / Flask, Streamlit, Power BI (churn analytics project in progress)
 
