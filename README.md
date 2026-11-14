@@ -14,7 +14,7 @@ I am also a **Hafiz and Alim**, and the founder of **Zain Tech Automation Soluti
 
 ---
 
-## 🚀 Featured Projects — all verified, with evidence
+## 🚀 Featured Projects — hands-on work, with run evidence
 
 | Project | What it proves |
 |---|---|
@@ -24,6 +24,8 @@ I am also a **Hafiz and Alim**, and the founder of **Zain Tech Automation Soluti
 | [Ansible Server Automation](https://github.com/zain-ul-abadeen-1213/ansible-server-automation) | One playbook configuring 3 Ubuntu servers over SSH key auth. Idempotency proven — rerun changed=0; verification **3/3 PASS**. |
 | [Kubernetes Cluster Deployment](https://github.com/zain-ul-abadeen-1213/kubernetes-cluster-deployment) | Local 3-node kind cluster, 3 replicas behind a NodePort service, rolling update V1 → V2 with **zero downtime**; verification 4/4. |
 | [Kubernetes Autoscaling under Load (HPA)](https://github.com/zain-ul-abadeen-1213/kubernetes-autoscaling-hpa) | Load drove CPU to 204% and the HPA scaled the deployment **1 → 4 replicas on its own**; verify script Passed 5 / Failed 0. |
+| [Service Mesh with Istio](https://github.com/zain-ul-abadeen-1213/istio-service-mesh) | Bookinfo microservices behind the Istio ingress gateway on a 3-node kind cluster: reviews traffic split **80/20 (v1/v3)** and **mTLS in STRICT mode**. Core mesh verified running — product page serving HTTP 200. Kiali/Prometheus addons and the final verification suite are still to finish. |
+| [GitOps with ArgoCD](https://github.com/zain-ul-abadeen-1213/gitops-apps) | Argo CD keeps a demo app synced purely from Git: one web commit scaled it **2 → 4 replicas** and moved the image nginx:1.25 → 1.27, and a manual drift (scale to 1) was **self-healed** back automatically. The Git rollback test is still to finish. |
 | [Prometheus & Grafana Monitoring](https://github.com/zain-ul-abadeen-1213/prometheus-grafana-monitoring) | Docker Compose monitoring stack (Prometheus, node-exporter, cAdvisor, Grafana), 6-panel dashboard, all targets UP. |
 | [Dockerized App on AWS ECR](https://github.com/zain-ul-abadeen-1213/exportsight-docker-aws-ecr) | ExportSight BI application containerized with Docker and pushed to Amazon ECR (ap-south-1). |
 | [ExportSight — live product](https://github.com/zain-ul-abadeen-1213/exportsight) | Business intelligence dashboard for textile exporters. **Live demo:** https://exportsight.streamlit.app/ |
@@ -59,8 +61,7 @@ I am also a **Hafiz and Alim**, and the founder of **Zain Tech Automation Soluti
 ## 📚 Currently learning
 
 - AIOps — Level 6 (in progress)
-- Service Mesh with Istio (in progress)
-- GitOps with ArgoCD (in progress)
+- Istio service mesh and ArgoCD GitOps — built and running in my home lab; final verification and closeout in progress
 
 ---
 
