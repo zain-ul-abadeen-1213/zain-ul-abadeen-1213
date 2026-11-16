@@ -27,7 +27,6 @@ My rule for this profile: **every claim links to a repository with run evidence*
 
 I am also a **Hafiz and Alim**.
 
-- 🔭 **Open to:** junior/trainee DevOps roles (remote) and freelance automation projects
 - 🎓 **Currently:** AIOps — Level 6 (in progress)
 - 🌐 **Company:** [Zain Tech Automation Solutions](https://zaintechautomationsolutions.lovable.app/)
 
